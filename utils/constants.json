@@ -1,0 +1,6 @@
+{
+    "API": {
+        "key": "b88ae33e3e2e72de781a0b70c01d01d2",
+        "base": "https://api.openweathermap.org/data/2.5/"
+    }
+}
